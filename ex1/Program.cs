@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Console.Clear();
+int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Hello, World!");
+Console.WriteLine(number1);
